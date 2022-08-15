@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.1]
 https://hk.ttrate.com/scripts/*,
 https://hk.ttrate.com/style/*,
 https://hk.ttrate.com/plugins/*,
