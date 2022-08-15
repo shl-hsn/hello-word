@@ -1,7 +1,3 @@
 [Adblock Plus 3.1]
-https://hk.ttrate.com/scripts/*,
-https://hk.ttrate.com/style/*,
-https://hk.ttrate.com/plugins/*,
-https://hk.ttrate.com/cache/*,
-https://hk.ttrate.com/img/*,
-hm.baidu.com,
+! CHECK_CHAIN
+https://hk.ttrate.com/scripts/*,https://hk.ttrate.com/style/*,https://hk.ttrate.com/plugins/*,https://hk.ttrate.com/cache/*,https://hk.ttrate.com/img/*,hm.baidu.com
